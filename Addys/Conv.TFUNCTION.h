@@ -1,1 +1,1 @@
-#define LUA_TFUNCTION		6
+6
