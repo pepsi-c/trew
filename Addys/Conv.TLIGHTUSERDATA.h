@@ -1,1 +1,1 @@
-#define LUA_TLIGHTUSERDATA	2
+2
