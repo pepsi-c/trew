@@ -1,1 +1,1 @@
-#define LUA_TUSERDATA		7
+7
