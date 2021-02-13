@@ -1,1 +1,1 @@
-#define R_LUA_TPROTO   10
+10
